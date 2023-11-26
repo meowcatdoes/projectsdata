@@ -1,0 +1,21 @@
+{"row-1": {
+    "Title" : "MNIST Handwritten Digits Recognition - Convolutional Neural Networks",
+    "Description" : "",
+},
+"row-2": {
+    "Title" : "Pacman MDP Agent - Reinforcement Learning",
+    "Description" : ""
+},
+"row-3": {
+    "Title" : "Python Graphs Animation Module (Only for Elementary Functions)",
+    "Description" : ""
+}, 
+"row-4": {
+  "Title": "MySQL Python Pipeline Module",
+  "Description": ""
+},
+"row-5": {
+  "Title": "SQL Data Warehousing and Database Normalization Revision",
+  "Description": ""
+}
+}
